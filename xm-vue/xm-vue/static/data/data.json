@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "route": {
+                "path": "/home/welcome"
+            },
+            "menuName": "首页管理",
+            "childMenu": [
+                {
+                    "route": {
+                        "path": "/home/operations"
+                    },
+                    "menuName": "运营位列表",
+                    "childMenu": []
+                },
+                {
+                    "route": {
+                        "path": "/home/operationscommoditylist"
+                    },
+                    "menuName": "运营内容列表",
+                    "childMenu": []
+                },
+                {
+                    "route": {
+                        "path": "/home/operpages"
+                    },
+                    "menuName": "页面列表",
+                    "childMenu": []
+                }
+            ]
+        },
+        {
+            "menuName": "权限管理",
+            "childMenu": [
+                {
+                    "route": {
+                        "path": "/home/role"
+                    },
+                    "menuName": "角色列表",
+                    "childMenu": []
+                },
+                {
+                    "route": {
+                        "path": "/home/memberlist"
+                    },
+                    "menuName": "成员列表",
+                    "childMenu": []
+                }
+            ]
+        },
+        {
+            "menuName": "订单管理",
+            "childMenu": [
+                {
+                    "route": {
+                        "path": "/home/order"
+                    },
+                    "menuName": "订单列表",
+                    "childMenu": []
+                }
+            ]
+        },
+        {
+            "menuName": "商品管理",
+            "childMenu": [
+                {
+                    "route": {
+                        "path": "/home/goodslist"
+                    },
+                    "menuName": "商品列表",
+                    "childMenu": []
+                },
+                {
+                    "route": {
+                        "path": "/home/typelist"
+                    },
+                    "menuName": "规格列表",
+                    "childMenu": []
+                }
+            ]
+        },
+        {
+            "menuName": "财务管理",
+            "childMenu": [
+                {
+                    "route": {
+                        "path": "/home/Account"
+                    },
+                    "menuName": "商家结算明细",
+                    "childMenu": []
+                },
+                {
+                    "route": {
+                        "path": "/home/statemen"
+                    },
+                    "menuName": "商家对账单",
+                    "childMenu": []
+                },
+                {
+                    "route": {
+                        "path": "/home/statemen"
+                    },
+                    "menuName": "商家对账单",
+                    "childMenu": []
+                },
+                {
+                    "route": {
+                        "path": "/home/refund"
+                    },
+                    "menuName": "用户退款",
+                    "childMenu": []
+                }
+            ]
+        },
+        {
+            "menuName": "优惠券",
+            "childMenu": [
+                {
+                    "route": {
+                        "path": "/home/discount"
+                    },
+                    "menuName": "优惠券管理",
+                    "childMenu": []
+                },
+                {
+                    "route": {
+                        "path": "/home/discountDispenseList"
+                    },
+                    "menuName": "优惠券发放列表",
+                    "childMenu": []
+                }
+            ]
+        }
+    ],
+    "errorDescription": "操作成功",
+    "successful": "1"
+}
