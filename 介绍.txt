@@ -1,0 +1,4 @@
+fe-vue => vue模拟拼多多
+xm-vue => 后台系统管理
+browserSync => 手机链接操作
+menu-vue => 使用better-scroll进行菜单

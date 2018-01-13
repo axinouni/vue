@@ -1,0 +1,7 @@
+browserSync 的方法
+
+1. 脚手架中 npm run build 会生成一个dist文件夹
+2. 在脚手架的同级目录加入
+gulflie.js文件 在把脚手架中生成的dist
+放入一个空的文件夹中与gulpfile.js同级
+3.gulp browserSync
